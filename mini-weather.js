@@ -19,7 +19,7 @@ window.onload = function(){
 
                     document.body.innerHTML = document.body.innerHTML + 
                     `
-                    <div id="mini-weather">
+                    <div author="rimekod" id="mini-weather">
                         <a id="mw-close" class="close"><img width="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/OOjs_UI_icon_close-ltr-destructive.svg/480px-OOjs_UI_icon_close-ltr-destructive.svg.png"></a>
                         <div class="left">
                             <img src="https://developer.accuweather.com/sites/default/files/`+icon+`-s.png">
